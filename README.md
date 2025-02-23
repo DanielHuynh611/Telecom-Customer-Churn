@@ -55,3 +55,23 @@ The key churn factors being analyzed can be grouped into the following categorie
   
 ## Insights Deep Dive
 
+### Impact of Service Offerings on Customer Churn  
+
+#### Question 1: How does internet type affect churn rates among Fiber Optic, Cable, DSL, and No Internet Service?
+
+- _Fiber optic users_ have the **highest churn rate (40.7%)** and the **lowest satisfaction score (2.9)**, indicating significant dissatisfaction.  
+- _Cable_ (**25.7%**) and _DSL_ (**18.6%**) users experience lower churn rates and slightly better satisfaction scores (**3.2** and **3.3**, respectively), suggesting better retention.  
+- **Customers without internet service** report the **highest satisfaction score (3.8)** and the **lowest churn rate (7.4%)**, showing minimal service-related dissatisfaction.  
+- It is estimated with 99% confidence that **customers with any internet service** have a **churn rate that is 22 to 27 percentage points higher** than those without internet service, highlighting the need for service improvements.
+
+*Figure 1: Churn rate and satisfaction score by internet type*
+![Internet_Type](https://github.com/user-attachments/assets/4dad26c6-2bfb-4a48-a199-e2679105242d)
+
+#### Question 2: how do churn rate vary by payment method: Bank Withdrawal, Mailed Check, and Credit Card?
+
+- _Mailed Check_ and _Bank Withdrawal_ users have **higher churn rates** (**36.9%** and **34.0%**) and **lower satisfaction scores** (**3.0** and **3.1**), indicating potential inconvenience or dissatisfaction.
+- _Credit Card_ users experience the **lowest churn rate** (**14.5%**) and the **highest satisfaction score** (**3.5**), suggesting a smoother payment experience.
+- It is estimated with 99% confidence that customers who pay by _Mailed Check_ or _Bank Withdrawal_ have a **churn rate that is 17 to 22 percentage points higher** than those who pay by _Credit Card_.
+
+*Figure 2: Churn rate and satisfaction score by payment method*
+![Payment_Method](https://github.com/user-attachments/assets/ece638be-ad4a-43cd-be28-3d8d8a8b9748)
