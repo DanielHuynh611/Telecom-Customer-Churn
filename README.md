@@ -67,7 +67,7 @@ The key churn factors being analyzed can be grouped into the following categorie
 *Figure 1: Churn rate and satisfaction score by internet type*
 ![Internet_Type](https://github.com/user-attachments/assets/4dad26c6-2bfb-4a48-a199-e2679105242d)
 
-#### Question 2: how do churn rate vary by payment method: Bank Withdrawal, Mailed Check, and Credit Card?
+#### Question 2: how do churn rates vary by payment method: Bank Withdrawal, Mailed Check, and Credit Card?
 
 - _Mailed Check_ and _Bank Withdrawal_ users have **higher churn rates** (**36.9%** and **34.0%**) and **lower satisfaction scores** (**3.0** and **3.1**), indicating potential inconvenience or dissatisfaction.
 - _Credit Card_ users experience the **lowest churn rate** (**14.5%**) and the **highest satisfaction score** (**3.5**), suggesting a smoother payment experience.
@@ -75,3 +75,11 @@ The key churn factors being analyzed can be grouped into the following categorie
 
 *Figure 2: Churn rate and satisfaction score by payment method*
 ![Payment_Method](https://github.com/user-attachments/assets/ece638be-ad4a-43cd-be28-3d8d8a8b9748)
+
+#### Question 3: how do churn rates vary across Month-to-Month, One-year, and Two-year contracts
+
+- Customers on _Month-to-Month_ contracts experience the **highest churn rate** (**45.8%**) and the **lowest satisfaction score** (**2.9**).
+- In contrast, _One-Year_ (**10.7%** churn, **3.6** satisfaction) and _Two-Year_ (**2.5%** churn, **3.7** satisfaction) contracts have significantly lower churn rates and higher satisfaction levels, suggesting that long-term contracts are associated with greater customer loyalty.
+
+*Figure 3: Churn rate and satisfaction score by contract types*
+![Contratcs](https://github.com/user-attachments/assets/b35ed65c-4da0-4462-9ecd-dd28d0ecfbb4)
