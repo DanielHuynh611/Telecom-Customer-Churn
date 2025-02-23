@@ -91,16 +91,27 @@ The key churn factors being analyzed can be grouped into the following categorie
 
 - Customers with _Premium Tech Support_ have a **significantly lower churn rate** (**15.2%**) compared to those without it (**31.2%**), indicating a potential retention improvement.
 - However, **premium tech support does not lead to higher customer satisfaction**, suggesting that while it may reduce churn, it does not necessarily enhance the overall customer experience.
-- It is estimated with 99% confidence that customers who subscribe to _Premium Tech Support_ have a churn rate that is **13% to 19% lower** than those who do not subscribe.
+- It is estimated with 99% confidence that customers who subscribe to_ Premium Tech Support_ have a churn rate that is **13 to 19 percentage points lower** than those who do not subscribe.
 
 *Figure 4: Churn rate and satisfaction score by premium tech support subscription*
-![Premium_Tech_Support](https://github.com/user-attachments/assets/d615a529-534b-40f2-b2c3-6d3485ac797c)
+![Premium_Tech_Support](https://github.com/user-attachments/assets/2ada99ef-889b-45c8-a4bd-6fcb8fd66cbc)
 
 #### ii. Unlimited Data Downloads
 
 - Customers with _Unlimited Data_ exhibit a **higher churn rate** (**31.7%**) than those without it (16.0%), suggesting that this service may not effectively retain users.
 - Furthermore, their **satisfaction score is lower** (**3.1** compared to **3.6**), indicating that Unlimited Data users may have heightened expectations or encounter issues that affect their overall satisfaction.
-- It is estimated with 99% confidence that customers with _Unlimited Data_ have a churn rate that is **13%** **to** **18%** higher than those without it.
+- It is estimated with 99% confidence that customers with _Unlimited Data_ have a churn rate that is **13 to 18 percentage point higher** than those without it.
 
 *Figure 5: Churn rate and satisfaction score by unlimited data downloads subscription*
+![Unlimited_Data](https://github.com/user-attachments/assets/e2c3242e-e964-40d2-8b2e-364f28c5455b)
+
+
+#### iii. Online Security
+- Customers with _Online Security_ experience a **significantly lower churn rate** (**14.6%**) compared to those without it (31.3%), indicating that this service may enhance customer retention.
+- However, their satisfaction score is **slightly lower** (**3.1** vs. **3.3**), suggesting potential areas for improvement in the service experience.
+- It is estimated with 99% confidence that customers who subscribe to _Online Security_ have a churn rate that is **14 to 19 percentage points lower** than those who do not subscribe.
+
+
+*Figure 6: Churn rate and satisfaction score by online security service*
+![Online Security](https://github.com/user-attachments/assets/afcb0624-a295-45da-b6c5-d07636696418)
 
