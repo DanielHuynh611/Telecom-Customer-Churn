@@ -43,15 +43,15 @@ The key churn factors being analyzed can be grouped into the following categorie
 
 1. **Enhance Internet Service & Unlimited Data Plans**
   
-    Customers who pay for **fiber optic internet** and **unlimited data** are significantly more likely to churn. It is recommended to investigate service quality issues and consider improving reliability, speed, or pricing to increase satisfaction and retention.
+    Customers who pay for _fiber optic internet_ and _unlimited data_ are significantly more likely to churn. It is recommended to **investigate service quality issues** and consider **improving reliability**, **speed**, or **pricing** to increase satisfaction and retention.
 
 2. **Targeted Retention Strategies for Senior and Married Customers**
   
-    Customers **over 65** and **married individuals** exhibit higher churn rates. Developing more appealing offers, loyalty programs, or bundled services that better tailored to their needs may encourage long-term commitment.
+    Customers _over 65_ and _married individuals_ exhibit higher churn rates. Developing more **appealing offers**, **loyalty programs**, or **bundled services** that better tailored to their needs may encourage long-term commitment.
 
 3. **Promote Online Security & Premium Tech Support**
   
-    Subscribing to **online security** and **premium tech support** correlates with lower churn rates. Promoting these services through discounts and bundled plans could encourage adoption and improve customer retention.  
+    Subscribing to _online security_ and _premium tech support_ correlates with lower churn rates. **Promoting these services through discounts and bundled plans** could encourage adoption and improve customer retention.  
   
 ## Insights Deep Dive
 
