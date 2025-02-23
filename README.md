@@ -4,7 +4,7 @@
 
 Nexa, a telecommunications service provider, is facing increased competition, leading to a significant loss of customers.Data indicates that 26.5% of the customer base has churned, with half of them leaving due to the belief that competitors offer a better alternative. To address this challenge, a data-driven approach is essential to uncover key factors influencing customer churn. As a data scientist, my objective is to analyze customer behavior, identify patterns contributing to churn, and provide actionable insights to enhance retention strategies. 
 
-## Business Question
+## Business Questions
 
 The key churn factors being analyzed can be grouped into the following categories:
 
