@@ -13,7 +13,7 @@ The key churn factors being analyzed can be grouped into the following categorie
   1. **Internet Service**: Do customers with internet service have lower churn rates? Which internet type retains customers best?
   2. **Payment Methods**: How does churn vary among _Bank Withdrawal_, _Credit Card_, and _Mailed Check_ payments?
   3. **Contract Types**: How do churn rates compare across _Month-to-Month_, _One-Year_, and _Two-Year_ contracts?
-  4. **Additional Services**: Does subscribing to _Online Backup_, _Premium Tech Support_, or _Unlimited Data_ reduce churn?
+  4. **Subscription Services**: Does subscribing to _Online Backup_, _Premium Tech Support_, or _Unlimited Data_ reduce churn?
  
 - **Demographic factors**: These two questions will be addressed:
 
@@ -83,3 +83,24 @@ The key churn factors being analyzed can be grouped into the following categorie
 
 *Figure 3: Churn rate and satisfaction score by contract types*
 ![Contratcs](https://github.com/user-attachments/assets/b35ed65c-4da0-4462-9ecd-dd28d0ecfbb4)
+
+
+#### Question 4: Do additional subscription services: _Premium Tech Support_, _Unlimited Data_ and _Online Backup_ reduce customer churn?
+
+##### i. Premium Tech Support
+
+- Customers with _Premium Tech Support_ have a **significantly lower churn rate** (**15.2%**) compared to those without it (**31.2%**), indicating a potential retention improvement.
+- However, **premium tech support does not lead to higher customer satisfaction**, suggesting that while it may reduce churn, it does not necessarily enhance the overall customer experience.
+- It is estimated with 99% confidence that customers who subscribe to _Premium Tech Support_ have a churn rate that is **13% to 19% lower** than those who do not subscribe.
+
+*Figure 4: Churn rate and satisfaction score by premium tech support subscription*
+![Premium_Tech_Support](https://github.com/user-attachments/assets/d615a529-534b-40f2-b2c3-6d3485ac797c)
+
+#### ii. Unlimited Data Downloads
+
+- Customers with _Unlimited Data_ exhibit a **higher churn rate** (**31.7%**) than those without it (16.0%), suggesting that this service may not effectively retain users.
+- Furthermore, their **satisfaction score is lower** (**3.1** compared to **3.6**), indicating that Unlimited Data users may have heightened expectations or encounter issues that affect their overall satisfaction.
+- It is estimated with 99% confidence that customers with _Unlimited Data_ have a churn rate that is **13%** **to** **18%** higher than those without it.
+
+*Figure 5: Churn rate and satisfaction score by unlimited data downloads subscription*
+
