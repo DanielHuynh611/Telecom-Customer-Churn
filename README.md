@@ -128,8 +128,22 @@ The key churn factors being analyzed can be grouped into the following categorie
 
 
 #### Question 2: Are married customers more likely to churn compared to single customers?
+
 - _Married customers_ have a **lower churn rate** (**19.7%**) and **slightly higher satisfaction** (**3.3**) compared to _single customers_ (**33.0% churn, 3.2 satisfaction**).
 - It is estimated with 99% confidence that _single customers_ **churn 11 to 16 percentage points more frequently** than their _married_ counterparts, highlighting the need for targeted retention strategies.
 
 *Figure 8: Churn rate by marital status*
 ![Marital_Status](https://github.com/user-attachments/assets/eb7c590d-63b6-48d1-9303-8b732c6fe91a)
+
+## Limitations and Caveats
+
+- This analysis examines each churn factor individually, without accounting for potential interactions between different factors.
+- The 99% confidence intervals should be interpreted with caution. These estimates assume a randomly selected sample, but the data is likely observational, which means that selection bias may be present.
+
+## Conclusion
+
+This analysis identified key drivers of customer churn for Nexa, revealing that contract type, payment method, and additional service subscriptions significantly impact retention. Month-to-month contracts, fiber optic internet, and unlimited data plans are associated with higher churn, while long-term contracts, credit card payments, and security services improve retention. Demographic factors, such as age and marital status, also play a role. These insights provide a data-driven foundation for targeted retention strategies to address customer pain points and improve satisfaction.
+
+
+
+
