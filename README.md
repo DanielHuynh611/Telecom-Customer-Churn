@@ -115,3 +115,21 @@ The key churn factors being analyzed can be grouped into the following categorie
 *Figure 6: Churn rate and satisfaction score by online security service*
 ![Online Security](https://github.com/user-attachments/assets/afcb0624-a295-45da-b6c5-d07636696418)
 
+### Impact of Demographic Factors on Customer Churn
+
+#### Question 1: Do churn rates differ across different age groups?
+
+- Customers _over 65_ have the **highest churn rate** (**41.7%**) and the **lowest satisfaction score** (**2.9**) compared to younger age groups.
+- In contrast, customers _aged 30–64_ and _under 30_ have **lower churn rates** (**21.7%–24.2%**) and **higher satisfaction scores** (**3.3**).
+- It is estimated with 99% confidence that customers _over 65_ **churn 14 to 22 percentage points more frequently** than those under 65, highlighting the need for targeted retention strategies.
+
+*Figure 7: Churn rate by age groups*
+![Age_Groups](https://github.com/user-attachments/assets/2406c845-b20c-46d5-a52d-f3d641d13b39)
+
+
+#### Question 2: Are married customers more likely to churn compared to single customers?
+- _Married customers_ have a **lower churn rate** (**19.7%**) and **slightly higher satisfaction** (**3.3**) compared to _single customers_ (**33.0% churn, 3.2 satisfaction**).
+- It is estimated with 99% confidence that _single customers_ **churn 11 to 16 percentage points more frequently** than their _married_ counterparts, highlighting the need for targeted retention strategies.
+
+*Figure 8: Churn rate by marital status*
+![Marital_Status](https://github.com/user-attachments/assets/eb7c590d-63b6-48d1-9303-8b732c6fe91a)
