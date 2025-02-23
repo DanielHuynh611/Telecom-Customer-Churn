@@ -11,7 +11,7 @@ The key churn factors being analyzed can be grouped into the following categorie
 - **Service Offerings**: This analysis aims to answer the following questions:
 
   1. **Internet Service**: Do customers with internet service have lower churn rates? Which internet type retains customers best?
-  2. **Payment Methods**: How does churn vary among _Bank Withdrawal_, _Credit Card_, and _Mailed Check payments_?
+  2. **Payment Methods**: How does churn vary among _Bank Withdrawal_, _Credit Card_, and _Mailed Check_ payments?
   3. **Contract Types**: How do churn rates compare across _Month-to-Month_, _One-Year_, and _Two-Year_ contracts?
   4. **Additional Services**: Does subscribing to _Online Backup_, _Premium Tech Support_, or _Unlimited Data_ reduce churn?
  
@@ -38,3 +38,20 @@ The key churn factors being analyzed can be grouped into the following categorie
 - **Age Groups**: Customers **over 65** have an **extremely high churn rate** (**41.7%**), while those **under 65** churn at **23.6%**.
 
 - **Marital Status**: Single customers are more likely to churn compared to married customers (**33.0%** vs. **19.7%**).
+
+## Recommendations
+
+1. **Enhance Internet Service & Unlimited Data Plans**
+  
+    Customers who pay for **fiber optic internet** and **unlimited data** are significantly more likely to churn. It is recommended to investigate service quality issues and consider improving reliability, speed, or pricing to increase satisfaction and retention.
+
+2. **Targeted Retention Strategies for Senior and Married Customers**
+  
+    Customers **over 65** and **married individuals** exhibit higher churn rates. Developing more appealing offers, loyalty programs, or bundled services that better tailored to their needs may encourage long-term commitment.
+
+3. **Promote Online Security & Premium Tech Support**
+  
+    Subscribing to **online security** and **premium tech support** correlates with lower churn rates. Promoting these services through discounts and bundled plans could encourage adoption and improve customer retention.  
+  
+## Insights Deep Dive
+
